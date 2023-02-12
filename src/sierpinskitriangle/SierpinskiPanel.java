@@ -100,7 +100,7 @@ public class SierpinskiPanel extends JPanel {
                         } // ok. I'm done with myCanvas for now, unlock the mutex.
 
                         // draw the triangle - the points given are the corners of the outside of the triangle.
-                        drawSierpinskiTriangle(getWidth()/2,10,    10, getHeight()-10,       getWidth()-10, getHeight()-10,    myDepth);
+                        drawSierpinskiTriangle(getWidth()*0.5,10,    10, getHeight()-10,       getWidth()-10, getHeight()-10,    myDepth);
                         if (!shouldInterrupt)
                             needsRestart = false; // we're done and didn't get interrupted.
                     }
