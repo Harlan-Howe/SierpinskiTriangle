@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/XX_SierpinskiTriangle2020.iml" filepath="$PROJECT_DIR$/XX_SierpinskiTriangle2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SierpinskiTriangle.iml" filepath="$PROJECT_DIR$/SierpinskiTriangle.iml" />
     </modules>
   </component>
 </project>
